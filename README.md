@@ -1,6 +1,7 @@
 # Cursor Website Clone
 
 This project is a frontend clone of the **Cursor** marketing website, built using **HTML** and **CSS**.  
+<img width="1906" height="947" alt="image" src="https://github.com/user-attachments/assets/4237c8e2-e4dc-4249-ac14-56b51e2c57e8" />
 
 ---
 
